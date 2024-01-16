@@ -1,0 +1,25 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+a {
+  color: green;
+}
+
+.spacing {
+  margin: 15px auto;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+.larger {
+  font-style: italic;
+}
+
+.highlight {
+  background-color: rgb(220, 220, 220);
+}
